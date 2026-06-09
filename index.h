@@ -12,12 +12,19 @@
             padding: 50px;
         }
         h1 { color: #31008b; }
-    </style>
-</head>
-<body>
-    <h1>REFORMA DE INSTRUMENTOS MUSICAIS</h1>
-    <p>Reformas em geral de qualquer intrumento</p>
-    <p>Funilaria, pintura, lubrificação em geral</p>
+        </style>
+    </head>
+    <body>
+
+       </head>
+          <h1>COPA DO MUNDO</h1>
+          <p>Tudo sobre os jogos</p>
+   
+        </head>
+        <main>
+<
+
+
 </body>
 </html>
 
